@@ -1,0 +1,21 @@
+# Byte-compiled
+*.pyc
+*.pyo
+*.tar.gz
+
+# Distribution and deployment
+*.egg-info/
+*.egg
+.eggs/
+dist
+.tox/
+
+# Ignore environment files
+.env*
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+tmp
